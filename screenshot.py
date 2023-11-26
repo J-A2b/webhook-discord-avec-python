@@ -2,7 +2,7 @@ import requests
 import pyautogui
 
 # URL du webhook Discord
-webhook_url = ""
+webhook_url = "ton webhook discord"
 
 
 
